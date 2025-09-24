@@ -1,0 +1,22 @@
+#page-container {
+    width: 760px;
+}
+#content {
+    margin-right: 20;
+    background:rgb(249, 66, 255);
+}
+body {
+    background-color:blueviolet
+}
+#content h2 {
+    margin: 0;
+    padding: 0;
+}
+#content p {
+    margin: 0;
+    padding: 0;
+}
+h1,h2 {
+    margin: 0;
+    padding: 0;
+}
